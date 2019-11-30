@@ -1,0 +1,19 @@
+{
+  "name": "ballast-lane",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanVilla1585/ballast-lane.git"
+  },
+  "author": "Ivan Dario Villa Ramirez <trezeguet55@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanVilla1585/ballast-lane/issues"
+  },
+  "homepage": "https://github.com/IvanVilla1585/ballast-lane#readme"
+}
