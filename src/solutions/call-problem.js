@@ -1,4 +1,4 @@
-// 'use strict'
+'use strict'
 
 const foo = function () {
 	this.someObject.someAttribute += 4
