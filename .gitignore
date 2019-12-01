@@ -64,3 +64,4 @@ big.file
 .env
 
 api/**/*.json
+package-lock.json
