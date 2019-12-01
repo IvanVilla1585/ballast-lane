@@ -1,3 +1,4 @@
+/* eslint-disable */
 'use strict'
 
 async function someThing (req, res) {
