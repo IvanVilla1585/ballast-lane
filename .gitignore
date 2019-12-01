@@ -61,3 +61,6 @@ typings/
 .next
 
 big.file
+.env
+
+api/**/*.json
