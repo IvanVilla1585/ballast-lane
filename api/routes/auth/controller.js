@@ -6,8 +6,9 @@ const service = require('./service')
 
 async function signup (req, res, next) {
   try {
-    await service.signup(req.body)
-    res.send(201)
+    const result = await service.signup(req.body)
+    res.status(201)
+    res.send(result)
     next()
   } catch (err) {
     next(new errors.InternalServerError('Internal server error'))
